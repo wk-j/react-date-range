@@ -1,0 +1,20 @@
+{
+    "name": "reactdaterange",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "parcel-start": "node node_modules/parcel-bundler/bin/cli.js src/index.html -d .dist --public-url /",
+        "parcel-watch": "node node_modules/parcel-bundler/bin/cli.js watch src/index.html -d .dist --public-url /"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/react": "^16.8.19",
+        "@types/react-dom": "^16.8.4",
+        "parcel-bundler": "^1.12.3",
+        "react": "^16.8.6",
+        "react-dom": "^16.8.6",
+        "typescript": "^3.5.1"
+    }
+}
