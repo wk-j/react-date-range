@@ -11,9 +11,11 @@
     "license": "ISC",
     "devDependencies": {
         "@types/react": "^16.8.19",
+        "@types/react-date-range": "^0.94.4",
         "@types/react-dom": "^16.8.4",
         "parcel-bundler": "^1.12.3",
         "react": "^16.8.6",
+        "react-date-range": "^1.0.0-beta",
         "react-dom": "^16.8.6",
         "typescript": "^3.5.1"
     }
